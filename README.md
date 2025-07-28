@@ -5,6 +5,12 @@
 
 ---
 
+![Website](https://img.shields.io/badge/Live%20Site-shelterofpraise.org-blue?style=flat-square&logo=google-chrome)
+![Status](https://img.shields.io/badge/Status-Under%20Development-yellow?style=flat-square&logo=github)
+![License](https://img.shields.io/github/license/yourusername/shelterofpraise.org?style=flat-square)
+![Issues](https://img.shields.io/github/issues/yourusername/shelterofpraise.org?style=flat-square)
+![Stars](https://img.shields.io/github/stars/yourusername/shelterofpraise.org?style=flat-square)
+
 ### 🌐 About the Project  
 
 Welcome to the official GitHub repository of **Shelter of Praise | Assembly of God** — a Christ-centered, community-driven website designed to:  
