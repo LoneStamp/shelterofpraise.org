@@ -1,6 +1,6 @@
 # 📖 Assembly of God Website – Web Design Layout & Principles
 
-This documentation defines the visual structure, typography, color scheme, and layout system to be used for developing the Assembly of God website. It serves as a consistent guide for the project's HTML/CSS foundation, especially within the Gugma framework.
+This documentation defines the visual structure, typography, color scheme, and layout system to be used for developing the Assembly of God website. It serves as a consistent guide for the project's foundation, especially within the Gugma framework.
 
 ---
 
